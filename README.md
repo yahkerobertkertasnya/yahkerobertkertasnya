@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![Top Langs](https://github.com/yahkerobertkertasnya/github-stats/blob/master/generated/languages.svg)
+
 <!--
 **yahkerobertkertasnya/yahkerobertkertasnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
